@@ -1,0 +1,17 @@
+streamlit==1.41.1
+python-dotenv==1.0.1
+
+pypdf==5.1.0
+
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-text-splitters==0.3.5
+langchain-chroma==0.1.4
+
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+langgraph==0.2.62
+
+# LLM API (Groq - souvent gratuit avec clé)
+langchain-groq==0.2.1
